@@ -1,0 +1,6 @@
+# beni okumalısın
+
+*evet*
+-hayır-
+---
+
